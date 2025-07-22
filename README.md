@@ -1,4 +1,4 @@
-## Fraud Detection Project (Week 8 - Interim 1)
+## Fraud Detection Project (Week 8 )
 
 ## Overview
 This project is aimed at detecting fraud in e-commerce and bank transactions. I used the `Fraud_Data.csv`, `IpAddress_to_Country.csv`, and `creditcard.csv` datasets.
